@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Serif", sans-serif;
+  color: white;
+}
+
+body {
+  min-height: 100vh;
+  position: relative;
+  background-color: #141313;
+  height: 100vh;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background-color: rgb(146, 74, 240);
+  padding: 0.7rem;
+  border-radius: 2rem;
+  margin: 1rem;
+  font-weight: bold;
+}
+
+footer {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#compliment {
+  color: rgb(146, 74, 240);
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
