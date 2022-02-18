@@ -17,7 +17,7 @@ button {
   cursor: pointer;
   border: none;
   background-color: rgb(146, 74, 240);
-  padding: 0.7rem;
+  padding: 0.7rem 1rem;
   border-radius: 2rem;
   margin: 1rem;
   font-weight: bold;

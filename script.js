@@ -11,4 +11,6 @@ function generateNewCompliment() {
     console.log(newCompliment)
 }
 
+window.addEventListener("load", generateNewCompliment)
+
 complimentButton.addEventListener("click", generateNewCompliment)
