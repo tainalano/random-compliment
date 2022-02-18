@@ -17,10 +17,11 @@ button {
   cursor: pointer;
   border: none;
   background-color: rgb(146, 74, 240);
-  padding: 0.7rem 1rem;
+  padding: 1rem 1.2rem 0.7rem;
   border-radius: 2rem;
   margin: 1rem;
   font-weight: bold;
+  font-size: 1rem;
 }
 
 footer {
@@ -34,13 +35,21 @@ a {
   font-weight: bold;
 }
 
+h1 {
+  font-size: 2.5rem;
+}
+
 #compliment {
   color: rgb(146, 74, 240);
 }
+
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin: 0 auto;
   height: 100vh;
+  text-align: center;
+  max-width: 80%;
 }
