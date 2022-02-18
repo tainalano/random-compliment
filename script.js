@@ -1,5 +1,5 @@
 const complimentList = [
-    "classy", "beautiful", "smart", "superb", "terrific", "hot", "awesome", "genius", "stunning", "wondrous", "perfect", "handsome", "pretty", "lovely", "luxurius", "happy", "nice", "good", "charming", "smoking hot", "delicious", "delicate", "adorable"
+    "classy", "beautiful", "smart", "terrific", "hot", "awesome", "genius", "stunning", "wondrous", "perfect", "handsome", "pretty", "lovely", "luxurius", "happy", "nice", "good", "charming", "smoking hot", "delicious", "delicate", "adorable"
 ];
 
 const complimentButton = document.getElementById("button")
